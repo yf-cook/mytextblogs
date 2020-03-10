@@ -3,4 +3,5 @@ my name is yangfeng
 this is my first Git repostrity
 
 I'm coming!!warning: LF will be replaced by CRLF in mytext.txt.
-The file will have its original line endings in your working directory
+The file will have its original line endings in your working.
+I want to try again!!
