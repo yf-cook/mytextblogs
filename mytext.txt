@@ -5,4 +5,4 @@ this is my first Git repostrity
 I'm coming!!warning: LF will be replaced by CRLF in mytext.txt.
 The file will have its original line endings in your working.
 I want to try again!!
-I'm comming again!!
+I'm comming again!!娃哈哈
